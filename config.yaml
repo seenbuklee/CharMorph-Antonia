@@ -60,7 +60,8 @@ armature:
     file: metarig.blend
     obj_name: metarig
     tweaks:
-      - ../../tweaks/rigify_extended.yaml
+      - ./tweaks/rigify_extended.yaml
+      - ./tweaks/bendy-lips.yaml
       #- tweaks/eyes.yaml
     sliding_joints:
       elbows:
